@@ -143,9 +143,9 @@ return *tempArray;
 
 
 //*******************************************************************
-//This function uses recursion to generates an array based on the   *
-//number of picks                                                   *
-//a boolean is used to check if the array is based on user input     *
+//This function uses recursion to generate an array based on the   *
+//number of picks                                                  *
+//a boolean is used to check if the array is based on user input   *
 //*******************************************************************
 
 void arrayOutput(unsigned long int picks,bool check)
